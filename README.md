@@ -1,5 +1,9 @@
 # dev-resource-links
 
+## Articles
+
+- [What is Code? by Paul Ford](https://www.bloomberg.com/graphics/2015-paul-ford-what-is-code/)
+
 ## Blogs & News
 
 - [freeCodeCamp](https://www.freecodecamp.org/news/)
